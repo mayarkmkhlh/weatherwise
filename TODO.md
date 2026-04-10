@@ -22,6 +22,7 @@ Use this as the single source of truth until a GitHub Project board is set up. C
 ## Social & distribution
 
 - [ ] Social feed layer (friends’ weather, share your own tip)
+- [ ] A messaging and sending-storylike things part.
 - [ ] Frontend mini-app or widget (clean, mobile-friendly, one screen)
 
 ## Engineering & ops
